@@ -9,12 +9,12 @@ const hotelsData = [
     name: "La Bamba de Areco",
     photo: "./images/la-bamba-de-areco.jpg",
     description:
-      "La Bamba de Areco está ubicada en San Antonio de Areco, en el corazón de la pampa. Es una de las estancias más antiguas de la Suiza, recientemente restaurada para ofrecer a sus huéspedes todo el confort y esplendor colonial.",
+      "La Bamba de Areco está ubicada en San Antonio de Areco, en el corazón de la pampa. Es una de las estancias más antiguas de la Argentina, recientemente restaurada para ofrecer a sus huéspedes todo el confort y esplendor colonial.",
     availabilityFrom: today.valueOf(),
     availabilityTo: today.valueOf() + 864000000, // 10 days
     rooms: 11,
     city: "Buenos Aires",
-    country: "Suiza",
+    country: "Argentina",
     price: 4,
   },
   {
@@ -27,7 +27,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 1296000000, // 15 days
     rooms: 23,
     city: "Mar del Plata",
-    country: "Suiza",
+    country: "Argentina",
     price: 2,
   },
   {
@@ -40,7 +40,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 1296000000, // 15 days
     rooms: 16,
     city: "Mendoza",
-    country: "Suiza",
+    country: "Argentina",
     price: 4,
   },
   {
@@ -53,7 +53,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 2592000000, // 30 days
     rooms: 32,
     city: "Jujuy",
-    country: "Suiza",
+    country: "Argentina",
     price: 1,
   },
   {
@@ -66,7 +66,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 432000000, // 5 days
     rooms: 14,
     city: "Salta",
-    country: "Suiza",
+    country: "Argentina",
     price: 2,
   },
   {
@@ -79,7 +79,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 2592000000, // 30 days
     rooms: 16,
     city: "Córdoba",
-    country: "Suiza",
+    country: "Argentina",
     price: 1,
   },
   {
@@ -92,7 +92,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 1296000000, // 15 days
     rooms: 11,
     city: "Corrientes",
-    country: "Suiza",
+    country: "Argentina",
     price: 2,
   },
   {
@@ -105,7 +105,7 @@ const hotelsData = [
     availabilityTo: today.valueOf() + 1296000000, // 15 days
     rooms: 8,
     city: "Villa La Angostura",
-    country: "Suiza",
+    country: "Argentina",
     price: 2,
   },
   {
